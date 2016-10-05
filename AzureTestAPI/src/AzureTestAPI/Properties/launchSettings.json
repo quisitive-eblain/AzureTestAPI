@@ -11,8 +11,6 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-<<<<<<< HEAD
-=======
       "launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -22,7 +20,6 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "http://localhost:5000/api/values",
->>>>>>> c5cff0c657fcdfe3722b44a8c5c23826109de351
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
