@@ -1,0 +1,7 @@
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Release\TestAzureAPIUnitTests.dll
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Release\TestAzureAPIUnitTests.pdb
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\obj\Release\TestAzureAPIUnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\obj\Release\TestAzureAPIUnitTests.dll
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\obj\Release\TestAzureAPIUnitTests.pdb

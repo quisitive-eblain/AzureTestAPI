@@ -1,0 +1,6 @@
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Debug\TestAzureAPIUnitTests.dll
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Debug\TestAzureAPIUnitTests.pdb
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\obj\Debug\TestAzureAPIUnitTests.dll
+C:\Dev\AzureTestAPI\AzureTestAPI\TestAzureAPIUnitTests\obj\Debug\TestAzureAPIUnitTests.pdb
